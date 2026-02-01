@@ -18,9 +18,9 @@ MYNAME = "Radith"
 myname2 = "Radith"
 
 #ilegal
-2myname = "Radith" #angka tidak boleh diawal
-my-name = "Radith" #tidak boleh ada tanda (-)
-my name = "Radith" #tidak boleh ada spasi/jarak
+# 2myname = "Radith" #angka tidak boleh diawal
+# my-name = "Radith" #tidak boleh ada tanda (-)
+# my name = "Radith" #tidak boleh ada spasi/jarak
 
 #Multiple Variables
 x , y , z = "Rudi","Beni","Sukadi"
