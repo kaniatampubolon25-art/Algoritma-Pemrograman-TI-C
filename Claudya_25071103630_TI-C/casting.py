@@ -7,6 +7,6 @@ jumlah = input("Jumlah yang dibeli : ")
 # casting
 harga_satuan = float(harga_satuan) # harga barang dijadikan tipe data float
 jumlah = int(jumlah) # jumlah barang dijadikan tipe data int
-total_harga = harga_satuan * jumlah #melakukan perhitungan harga
+total = harga_satuan * jumlah #melakukan perhitungan harga
 
-print("Total yang harus dibayar : Rp" + str(total_harga)) #casting kembali ke str untuk penggabungan teks saat output
+print("Total yang harus dibayar : Rp" + str(total)) #casting kembali ke str untuk penggabungan teks saat output
