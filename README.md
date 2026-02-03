@@ -16,4 +16,7 @@
 Nama_NIM/
   jawaban.py
 
+ main
 
+
+ main
